@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! I'm an **Electrical Engineer** with a specialization in **Robotics** and **Autonomous Systems**. I have a passion for creating solutions to real-world problems in robotics, control systems, and microcontrollers.
 
+For my FYP, I am working on a Multi-UAV system for forest search and rescue operations, which will tentatively be completed in May of 2025.
+The first part of my group's work can be viewed in the following repository:
+
+#### **[LI-SLAM and FASTLIO2 for Teleoperated UAVs](https://github.com/ShameerMasroor/LI-SLAM-and-FASTLIO2-for-Teleoperated-UAVs)**
+A Multi-UAV system that performs mapping of a forest environment using LIDAR and SLAM (Simultaneous Localization and Mapping):
+- 🧭 **Tech Stack**: ROS2, Python, C++, Gazebo
+- 🔗 **Repo**: [Link to the Repository](https://github.com/ShameerMasroor/LI-SLAM-and-FASTLIO2-for-Teleoperated-UAVs)
+
+---
 ---
 
 ## 🚀 About Me
