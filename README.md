@@ -1,6 +1,6 @@
 # Hello there, I'm Shameer 👋
 
-Welcome to my GitHub profile! I'm an **Electrical Engineer** with a specialization in **Robotics** and **Autonomous Systems**. I have a passion for creating solutions to real-world problems in robotics, control systems, and microcontrollers.
+Welcome to my GitHub profile! I'm an **Electrical Engineer** with a concentration in **Robotics** and **Autonomous Systems**. I have a passion for creating solutions to real-world problems in robotics, control systems, and microcontrollers.
 
 For my FYP, I am working on a Multi-UAV system for forest search and rescue operations, which will tentatively be completed in May of 2025.
 The first part of my group's work can be viewed in the following repository:
